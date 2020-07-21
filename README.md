@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/badge/LICENSE-LGPL--2.1-green?style=flat-square)](/LICENSE)  [![Version](https://img.shields.io/badge/VERSION-RELEASE%20--%201.3-green?style=flat-square)](https://github.com/averov90/Keyboard-Locker/releases)
 # Блокировщик клавиатуры
 Программа разработана для предотвращения случайных нажатий клавиш клавиатуры во время неактивности пользователя за компьютером (например, если пользователь уснул за компьютером).
 
